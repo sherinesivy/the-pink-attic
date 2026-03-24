@@ -1,0 +1,46 @@
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(135deg, #fff0eb, #fce4ec);
+}
+
+.hero h1 {
+  font-size: 3.5rem;
+  color: #c2748a;
+  margin-bottom: 20px;
+  
+}
+
+.hero p {
+  font-size: 1.1rem;
+  color: #7a7a7a;
+  margin-bottom: 40px;
+  letter-spacing: 0.5px;
+}
+
+.hero button {
+  background-color: #c2748a;
+  color: white;
+  border: none;
+  padding: 14px 40px;
+  font-size: 0.95rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.hero button:hover {
+  background-color: #a85c72;
+}
+
+.featured-section {
+  padding: 60px;
+}
+
+.featured-section h2 {
+  font-size: 2rem;
+  color: #c2748a;
+  margin-bottom: 40px;
+  text-align: center;
+}

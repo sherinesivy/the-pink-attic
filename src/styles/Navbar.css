@@ -82,3 +82,12 @@ nav ul li span {
 .dropdown-menu li a:hover {
   color: #c2748a;
 }
+
+nav h1 a {
+  text-decoration: none;
+  color: #c2748a;
+}
+
+nav h1 a:hover {
+  color: #a85c72;
+}

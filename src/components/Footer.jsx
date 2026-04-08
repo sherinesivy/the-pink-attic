@@ -13,10 +13,10 @@ function Footer() {
         <div className="footer-links">
           <h4>Shop</h4>
           <ul>
-            <li>All </li>
-            <li>Clothing</li>
-            <li>Bags</li>
-            <li>Jewelry</li>
+            <li><Link to="/shop?category=all">All</Link></li>
+                        <li><Link to="/shop?category=clothing">Clothing</Link></li>
+                        <li><Link to="/shop?category=bags">Bags</Link></li>
+                        <li><Link to="/shop?category=jewelry">Jewelry</Link></li>
           </ul>
         </div>
         <div className="footer-links">

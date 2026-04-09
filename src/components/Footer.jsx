@@ -29,7 +29,7 @@ function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <p>© 2026 The Pink Attic. Made with 🌸</p>
+        <p>© 2026 The Pink Attic.</p>
       </div>
     </footer>
   );
